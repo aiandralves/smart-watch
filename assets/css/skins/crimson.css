@@ -1,0 +1,50 @@
+
+/*----------- Skin Cors ----------*/
+
+.scroll-up-btn,
+.header .navbar.navbar-light .navbar-toggler-icon::before,
+.header .navbar.navbar-light .navbar-toggler-icon::after,
+.header .navbar.navbar-light .navbar-toggler-icon,
+.footer,
+.contact-section .contact-item .icon,
+.btn-send,
+.newsletter-section::before,
+.faq-section .single-accordion .panel a.collapsed span,
+.faq-section .single-accordion .panel a,
+.testimonial-section::before,
+.products-section .owl-carousel .owl-nav .owl-next,
+.products-section .owl-carousel .owl-nav .owl-prev,
+.section-title .title::before,
+.home-section,
+.header {
+    background-color: #d70d25;
+}
+
+.footer .footer-social a:hover i,
+.testimonial-section .owl-carousel .owl-nav .owl-next,
+.testimonial-section .owl-carousel .owl-nav .owl-prev,
+.testimonial-section .client-info h5,
+.services-section .services-item .icon,
+.services-section .services-item:hover,
+.about-section .about-content ul li i,
+.section-title .title,
+.btn-main,
+.btn-main:hover {
+    color: #d70d25;
+}
+
+.products-section .products-item .products-desc .btn-main {
+    background-color: #d70d25;
+}
+
+.testimonial-section .client-info img {
+    border: 2px solid #d70d25;
+}
+
+.contact-section .contact-form .form-control:focus {
+    border-bottom: 2px solid #d70d25;
+}
+
+.preloader .loader {
+    border-right: 5px solid #d70d25;
+}
